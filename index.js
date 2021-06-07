@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-const {MagentoIntegration} = require('@sejazipper/magento2-api');
+const {MagentoIntegration} = require('@sejazipper/magento-integration');
 const _ = require('lodash');
 const config = require('config');
 
