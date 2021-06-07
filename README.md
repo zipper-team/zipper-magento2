@@ -5,9 +5,10 @@
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 
 ## Build Setup
+There are 2 files needed to the insert to work, one is **/resouces/produtos.json**, which is the products you want to insert on magento and **/config/dev.json** which is the authorization variables from magento. Both of them have their on examples in their folders. 
 
 ```bash
-# up docker
+# up mangento on docker
 $ docker-compose up -d
 
 # install dependencies
