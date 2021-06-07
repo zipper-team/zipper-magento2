@@ -13,7 +13,7 @@ const magento = new MagentoIntegration({
 
 const produtos = require('./resources/produtos.json');
 
-const produtosWithImage = produtos.filter((el) => el.imagens);
+const produtosWithImage = produtos.filter((el) => el.imagens && el.preco > 0);
 console.log(`Produtos com imagem: ${produtosWithImage.length} of ${produtos.length}`);
 
 const groupedProducts = _.groupBy(produtosWithImage, 'categoria');
