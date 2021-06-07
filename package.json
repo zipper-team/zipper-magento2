@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sejazipper/magento-integration": "^1.0.1",
+    "@sejazipper/magento-integration": "^1.0.2",
     "config": "^3.3.6",
     "lodash": "^4.17.21"
   },

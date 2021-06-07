@@ -18,3 +18,10 @@ $ yarn
 $ yarn insert
 ```
 
+Maybe you will have to use this commands to use persistence of data
+
+```bash
+$ sudo chown -R 1001:1001 resources/mariadb/
+
+$ sudo chown -R 1001:1001 resources/magento/
+```

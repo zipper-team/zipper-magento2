@@ -24,7 +24,7 @@ const saveProductsFromCategory = (category, quantity) => {
 
 console.log('Categories: ', Object.keys(groupedProducts));
 
-saveProductsFromCategory('CHUTEIRA', 10);
+saveProductsFromCategory('BERMUDA', 10);
 saveProductsFromCategory('MEIA', 10);
 saveProductsFromCategory('CAMISETA', 10);
 saveProductsFromCategory('CALÇA', 10);
