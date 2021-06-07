@@ -1,0 +1,25 @@
+[
+    {
+        "_id": {
+            "$oid": "id Exemplo"
+        },
+        "idERP": "idERP Exemplo",
+        "reference": "DV1111",
+        "setor": "Masculino",
+        "customerId": "customerIdExemplo",
+        "preco": 99.99,
+        "descricaoCurta": "CAMISETA Exemplo",
+        "descricao": "CAMISETA Exemplo",
+        "dataInclusao": {
+            "$date": "2018-04-18T03:00:00.000+0000"
+        },
+        "dataAlteracao": {
+            "$date": "2021-06-01T11:55:50.078+0000"
+        },
+        "grupoProduto": "Vestuário",
+        "categoria": "CAMISETA",
+        "metadata": {},
+        "skus": [],
+        "hashCode": -1856668538
+    }
+]

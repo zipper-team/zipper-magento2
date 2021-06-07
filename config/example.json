@@ -1,0 +1,7 @@
+{
+    "accessToken": "<accessToken>",
+    "accessTokenSecret": "<accessTokenSecret>",
+    "consumerKey": "<consumerKey>",
+    "consumerSecret": "<consumerSecret>",
+    "url": "http://<url>/rest"
+}
